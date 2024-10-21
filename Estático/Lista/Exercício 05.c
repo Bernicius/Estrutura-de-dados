@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 #define TAM 20 // Tamanho máximo das listas
 
